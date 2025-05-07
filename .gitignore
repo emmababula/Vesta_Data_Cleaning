@@ -1,0 +1,10 @@
+# Ignore raw and large data files
+*.csv
+*.tsv
+*.bak
+*.log
+*.tmp
+
+# Ignore OS and editor files
+.DS_Store
+Thumbs.db
