@@ -5,7 +5,7 @@
 ## Project Structure
 
 - `sql/` – SQL scripts for combining, cleaning, and validating the dataset
-- `data/` – (Optional) Example raw data files or summaries
+- `data/` – Raw and cleaned data files
 - `.gitignore` – Files to exclude from version control (e.g., large CSVs)
 - `LICENSE` – Open-source license (MIT)
 - `README.md` – Project overview and instructions
