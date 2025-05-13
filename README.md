@@ -6,7 +6,7 @@
 
 - `sql/` – SQL scripts for combining, cleaning, and validating the dataset
 - `data/` – Raw and cleaned data files
-- `.gitignore` – Files to exclude from version control (e.g., large CSVs)
+- `.gitignore` – Files to exclude from version control
 - `LICENSE` – Open-source license (MIT)
 - `README.md` – Project overview and instructions
 
